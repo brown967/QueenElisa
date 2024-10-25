@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QRXJDeyV2MKdlaP90TI5UQLJnTTpnehhjRzAzaldHSDRHRBl2YrRmVGlXSjEmWS1GSrNWQpwd=434005417362',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -17,32 +17,32 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+ᴡᴄᴋʏʏ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
-  PREFIX: '.$&',
+  PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
+  BOT_NAME: '𝔴𝔠𝔨𝔶𝔶',
+  OWNER_NAME: '𝔴𝔠𝔨𝔶𝔶',
+  OWNER_NUMBER: '263714500434',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '©𝔴𝔠𝔨𝔶𝔶𝔶 𝔟𝔬𝔱 🇾 🇦 ',
+  STICKER_AUTHOR: '𝔴𝔠𝔨𝔶𝔶𝔶',
+  STICKER_PACK: '𝔴𝔠𝔨𝔶𝔶𝔶',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90,
+  MAXIMUM_FILESIZE: 130,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: false,
-  AUTO_SEEN_STATUS: true,
+  AUTO_SEEN_STATUS: false,
   BOT_OFFLINE: false,
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
@@ -56,8 +56,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
   BUTTON_MESSAGES: true,
-  SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
-  VIDEO_DOWNLOAD_TYPE: 'selectable', // video
+  SONG_DOWNLOAD_TYPE: 'document', // audio , document
+  VIDEO_DOWNLOAD_TYPE: 'video', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
   MSG: {
